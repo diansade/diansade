@@ -36,6 +36,14 @@
 
 ## 📌 Featured Projects
 
+### 🎓 Student Dashboard
+
+A modern **student productivity dashboard** built using **React.js**, **Tailwind CSS**, and **React Router** featuring task management, goal tracking, study tracking, CGPA calculation, calendar, and resource management with responsive UI and Local Storage persistence.
+
+🔗 **Live Demo:** https://smart-student-dashboard-six.vercel.app/
+
+🔗 **GitHub:** https://github.com/diansade/smart-student-dashboard
+
 ### 📝 React Todo App
 
 A responsive Todo application built using **React.js** and **Tailwind CSS** with task editing, local storage persistence, and responsive UI.
