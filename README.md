@@ -64,7 +64,7 @@ Contributed to the frontend development of the college **Esports Club Website** 
 
 ## 🧩 Problem Solving
 
-* Solved **300+ DSA problems** on LeetCode
+* Solved **400+ DSA problems** on LeetCode
 * Regularly practice **Data Structures & Algorithms**
 
 ---
